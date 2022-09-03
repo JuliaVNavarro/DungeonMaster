@@ -1,0 +1,2 @@
+# DungeonMaster
+Main.java is a game that allows the user to explore a dungeon maze and battle monsters that come across their path while navigating through the various dungeon mazes. This class  gathers information from Enemy.java, EnemyGenerator.java, Entity.java, Hero.java, Magical.java, MagicalEnemy.java, and Map.java in order to create the hero, maps, different types of monsters, and the attacking capabilites for the hero and monsters.
