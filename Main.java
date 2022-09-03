@@ -1,10 +1,6 @@
 import java.awt.Point;
 import java.util.Scanner;
-/* Matthew Hoang, Julia Navarro, Sierra Harris 
-*  CECS 277 - 01
-*  3/5/21
-* 
-* Main.java is a game that allows the user to explore a dungeon maze and battle monsters that come
+/* Main.java is a game that allows the user to explore a dungeon maze and battle monsters that come
 * across their path while navigating through the various dungeon mazes. This class 
 * gathers information from Enemy.java, EnemyGenerator.java, Entity.java, Hero.java,
 * Magical.java, MagicalEnemy.java, and Map.java in order to create the hero, maps,
